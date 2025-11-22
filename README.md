@@ -35,16 +35,15 @@ Main Module
 1. Install Python:
      Download and install Python(if not) - https://www.python.org/downloads/
      Make sure to check "Add to PATH" while installing.
-2. Download the Project File:
-     Save the Python file as any name you prefer(eg.-mini_pollution_monitoring.py).
+2. Download the Project Folder. 
 3. Open the Project using any editor(Install if not already installed):
      1. VS Code
      2. PyCharm
      3. IDLE
      4. Any else 
 4. Run the Prgram:
-     Method A: Using Terminal - Open a terminal in the project folder and run:
-                python mini_pollution_monitoring.py
+     Method A: Using Terminal - Open a terminal in the Project folder and run:
+                python main.py
      Method B: Using run button - In VS Code/IDLE/PyCharm:
                 click Run        
 
